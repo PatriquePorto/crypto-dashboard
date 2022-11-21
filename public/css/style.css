@@ -1,0 +1,78 @@
+.bg-image {
+  opacity: 1.5 ; background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://venturebeat.com/wp-content/uploads/2017/10/bg-71.jpg?fit=1920%2C1080&strip=all');
+  height: 100vh;
+
+}
+
+.bg-image .navbar .container-fluid a {
+  font-family: 'NHaasGroteskDSPro-65Md'; 
+  text-shadow: 4px 4px #1a1a1a;
+}
+
+/*Crypto coin name text */
+.bg-image .mask .text-Capitalize {
+  font-family: 'NHaasGroteskDSPro-65Md'; 
+  color: #fff; 
+  margin-top: 3px !important; 
+  margin-bottom: 0px !important;
+}
+
+/*Crypto cards texts */
+.bg-image .mask .cards {
+  margin-top: 2px !important;
+} 
+
+.bg-image .mask .card {
+  margin-top: 0px !important; 
+  width:12.5rem; 
+  background-color: rgb(177, 118, 233)
+}
+
+.bg-image .mask .card .card-body h6 {
+  font-family: 'NHaasGroteskDSPro-65Md';
+}
+
+.bg-image .mask .card .card-body .card-text {
+  color: aqua;
+}
+
+.bg-image .mask .card .card-body .price-up {
+  color: rgb(51, 255, 0) ;
+}
+
+.bg-image .mask .card .card-body .price-down {
+  color: rgb(255, 32, 32) ;
+}
+
+/*Current price */
+.bg-image .mask .current-text .text-center {
+  font-family: 'NHaasGroteskDSPro-65Md'; 
+  overflow: visible; 
+  height:2px; 
+  margin-top: 1%;
+}
+
+.bg-image .mask .current-text .current-crypto {
+  font-family: 'NHaasGroteskDSPro-65Md'; 
+  font-size:90px; 
+    font-weight: 700; 
+    color: rgb(0, 255, 255); 
+    text-decoration: none solid rgb(255, 255, 255);  
+    text-align: center; 
+}
+
+/* Market cap, Price change, total volume, supply */
+.bg-image .mask .container .row .card-body h6 {
+  font-family: 'NHaasGroteskDSPro-65Md'; 
+  color:#fff;
+}
+
+.bg-image .mask .container .row .card-body p {
+  font-family: 'NHaasGroteskDSPro-65Md'; 
+  color: rgb(255, 255, 255) ; 
+  font-size: small;
+}
+
+.bg-image .mask .container .row .chart {
+  max-width: 350px;
+}
