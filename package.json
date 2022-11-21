@@ -6,5 +6,23 @@
     "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.20",
     "request": "^2.88.2"
-  }
+  },
+  "name": "crypto-dashborad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatriquePorto/crypto-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatriquePorto/crypto-dashboard/issues"
+  },
+  "homepage": "https://github.com/PatriquePorto/crypto-dashboard#readme",
+  "description": ""
 }
